@@ -4,7 +4,7 @@
     <color name="white">#FFFFFFFF</color>
 
 
-    <color name="primary">#FFFFFFFF</color>
+    <color name="primary">#FF000000</color>
     <color name="primaryDark">#181818</color>
     <color name="Secondary">#ee9361</color>
     <color name="accent">#FFFFFF</color>
