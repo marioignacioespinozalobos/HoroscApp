@@ -50,7 +50,7 @@
        app:layout_constraintStart_toStartOf="parent"
        app:layout_constraintBottom_toBottomOf="parent"
        app:itemActiveIndicatorStyle="@null"
-       app:menu="@menu/bottom_manu"/>
+       app:menu="@menu/bottom_menu"/>
 
 
 
